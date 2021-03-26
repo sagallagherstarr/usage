@@ -1,0 +1,1 @@
+# GUI.vendoreditor.__init__.py

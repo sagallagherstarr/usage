@@ -1,0 +1,18 @@
+usage - a SUSHI and COUNTER usage statistics app
+
+The basic idea -
+
+Libraries can gather some usage statistics on electronic resources (ebooks, journals,
+videos, etc.) from vendors, who provide these statistics in formats that fall under
+the name COUNTER. Statistics from most vendors can be gathered using SUSHI as the 
+protocol.
+
+This app will:
+- Hold details on each vendor's SUSHI access information
+- Collect usage data from each vendor when prompted using
+  COUNTER releases 4, 5 and beyond
+- Store gathered usage data
+- Display usage data in useful formats
+- Export usage data to common spreadsheet formats
+- provide useful feedback around errors
+- Have a GUI to carry out these functions
